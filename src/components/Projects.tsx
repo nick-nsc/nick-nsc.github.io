@@ -2,7 +2,7 @@ const Projects = () => {
     return(
         <div id="projects">
             <div className="flex px-4 py-5 sm:px-6 justify-center">
-                <h1 className="text-3xl font-medium text-gray-900">Projects</h1>
+                <h1 className="text-2xl font-medium text-gray-900">Projects</h1>
             </div>
             <div className="flex flex-col sm:flex-row sm:flex-wrap place-content-center">
                 <div className="sm:max-w-sm sm:w-1/3 mb-4 px-2">

@@ -1,6 +1,6 @@
 const NavBar = () => {
     return (
-        <nav className="px-2 sm:px-4 py-2 bg-gray-300">
+        <nav className="invisible sm:visible fixed top-0 w-full px-2 sm:px-4 py-2 bg-gray-300">
             <ul className="flex flex-col sm:flex-row sm:space-x-8 justify-center">
                 <a href="#">
                     <li className="py-2 px-3 text-white bg-cyan-500 rounded">
